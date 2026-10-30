@@ -1,0 +1,4 @@
+stage,raw_rows,unique_students,duplicates_removed,alpha_all,matched_n,alpha_matched
+T0,63,60,3,0.825,34,0.824
+T1,53,53,0,0.901,34,0.909
+T2,48,40,8,0.923,34,0.921

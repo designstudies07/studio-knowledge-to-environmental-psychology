@@ -1,0 +1,34 @@
+# Restricted research data
+data/private/*
+!data/private/README.md
+
+# Generated artifacts
+outputs/*
+!outputs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python-version
+
+# Jupyter and editors
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+
+# Local environment and secrets
+.env
+*.local
+hash_salt.txt
+name_aliases.json

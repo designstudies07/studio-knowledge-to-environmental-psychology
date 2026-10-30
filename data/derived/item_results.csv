@@ -1,0 +1,9 @@
+measure,t0_mean,t0_sd,t1_mean,t1_sd,t2_mean,t2_sd,friedman_q,friedman_p,significant_contrasts
+User identification,4.118,0.640,4.382,0.697,4.265,0.790,5.333,0.0695,None
+Psychological needs,4.147,0.702,4.353,0.646,4.088,0.793,3.547,0.1698,None
+Multisensory design,3.647,0.981,4.353,0.884,4.147,0.784,19.118,0.000071,T0-T1; T0-T2
+Emotion and arousal,3.618,0.985,4.294,0.799,3.882,0.880,10.809,0.0045,T0-T1; T1-T2
+Affordances,3.794,0.880,4.176,0.673,4.059,0.736,4.974,0.0832,None
+Spatial perception,3.971,0.577,4.353,0.812,4.118,0.729,8.413,0.0149,None
+Physical-human link,3.882,0.769,4.294,0.906,4.118,0.729,6.458,0.0396,T0-T1
+Overall confidence,4.029,0.758,4.382,0.739,4.029,0.870,9.380,0.0092,T0-T1; T1-T2
